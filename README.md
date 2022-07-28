@@ -1,0 +1,4 @@
+- 👋 eu sou o davilocks
+- 👀 meu email de contato é davi.locks.ferreira@escola.pr.gov.br
+- 🌱 eu estou interessado em aprender a programar novas linguagens
+- 💞️ eu estou aprendendo a programar recentemente a linguagem de javascript e  scratch
